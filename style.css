@@ -1,0 +1,32 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+h1{
+	background-image: url("disneycast.jpg");
+	height: 150px;
+	background-size: 250px;
+
+}
+
+#addButton{
+	color: #0f1a9a;
+}
+
+#inputCharacter{
+	color: #0f1a9a;
+}
+
+.cast{
+	background-color: #0f1a9a;
+	color: white;
+}
+
+body{
+	background-color: #d9e8f5;
+}
+
+    			
